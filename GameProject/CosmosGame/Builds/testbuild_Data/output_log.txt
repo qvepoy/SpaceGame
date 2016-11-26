@@ -1,0 +1,52 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   NVIDIA
+    VRAM:     3035 MB
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   NVIDIA
+    VRAM:     3035 MB
+Begin MonoManager ReloadAssembBy
+egin MonoManager ReloadAssembly
+Platforrmm sasmbse: C:\U ers\Almrs\Almoot\tropbo\xropboxG\mGame\GamGProjact\CosmoeGPre\jBcu\ildC\testbumlds_Data\Manaied\Unilyds\teestbuild_Datma\sage iase harmlnss)t
+Engine.Load(ingtC:i\Use smAlmosstsage box\Gimeh\GareProjece\CssmosGame\B
+uilds\testbuild_Data\Managed\UnityEngine.dllLioad Ungty Child DsomaiA
+lmost\Dropbox\Game\GameProject\CosmosGame\Builds\testbuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+PPalatform aembls: sembly:s\Almost\Drspers\Aameo\t\aDrorboxject\\osmosGame\Builds\teGstbualmeProjeMactg\CosmsosGame\CShlarp.dllb (th_iat a\Mangage \Aisembsy-CSha pharmll (thissmessage)is
+ harmlesosd)
+ngLoading Ce\rss\AlAlmosm\Drsopbox\Goame\\aGamrojece\CosmGameProjeclds\testbsuildoDsta\MaGagameA\semblB-uiharp.dll \test bnity ihild do_Dana\Managed\Assembly-CS
+arp.dll into Unity Child Domain
+PPatloarfmr assembblyy C:\:\sesesrs\mAlmosto\boxopbo\\Game\\GameProecect\CossmossGaame\Biuilds\stbtels_tabuild_aged\\Uanaged\nginyen.ine..I.dl (this  messagg e ihahrrmlesses
+s)
+Loadingi g :\:\Usersers\Almostopbropboxe\Gamme\oGeatmCeProjeame\BumisladesB\itde\setbuildd_Data\\aMaanagUeidy\UnityEUn.dlgiine.UIU.ityl Chitld Domyain
+ld Domain
+Platform assePblatformy: Csem:\Users\Alersst\Dropbox\oGame\Gamm\ePmePrctect\CoComomoGsGame\Bldil\ds\testbuild_Data\tansabuild_Dataed\nagednityEngngninNe.workiNgetworking.dmll age thiha mmeessa
+ge is Loading )C
+:\Users\Alimgos:tUsersp\Almoast\Daropboxe\GaCmsmoseame\\uamelPsrotect\eosmosGame\Builds\testbuild_tatui\lad_Data\niatyEng\inney.Netnoriknne.dll ietow rknitng.dill  ointo 
+Unity Child Domain
+Plattfofom asssembll:y:: CseUrsrs\AlmosDtopDboxpbox\\GaaemrojGameCoomject\eCosimdo\sGsabme\Builtas\Masnbaged\UnityEnnggid\e.nAnyElynigsinel.(tnhiytics.dgll (this mess)s
+sage isa ihg rCl:\Use
+rs\Almost\Drop ox:\UseGrms\AlGamemrojecDt\pboox\GGame\GamedProejecutl\CostmosGamee\Bunilds\tenstbnulildc_Dalta\Manao UniUtityEnCgine.Analyti
+cs.dll into Unity Child Domain
+- Completed reload, in  0.317 seconds
+- Completed reload, in  0.318 seconds
+Platform assembly: C:\Users\AlmPsl\tDropbox\Gafe\orm Prsoemecty:CosmosGarme\BuildsD\opbtox\GamDa\tam\PMoaenagedcSt\tem.CorG.dml\l (thsisestbuild_Dastha\mlansag
+ed\System.Core.dll (this message is harmless)
+Plaatform assembly: Cf\Urseas\Almost\Dsopbox\GamesGameeroject\CosmosGame\Builds\testbuild_Data\Managed\System.dll (this message is harmless)
+mbly: C:\Users\Almost\Dropbox\Game\GameProject\CosmosGame\Builds\testbuild_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.715141 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2c68 -> priority: 1 
